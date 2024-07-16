@@ -1,55 +1,53 @@
 # Oasis Infobyte Internship
-=====================
 
-![Oasis Infobyte Internship](https://github.com/hrishinthecoder/Oasis-Infobyte-Internship/raw/main/logo.png) (width=50)
+Welcome to my Oasis Infobyte Internship repository! This repository contains various projects and analyses I completed during my Data Analyst internship at Oasis Infobyte.
 
-## About
---------
+## Table of Contents
 
-This repository contains my internship projects and experiences at Oasis Infobyte, where I'm working as a Data Analyst Intern. My goal is to become a Data Scientist and make a meaningful impact in the industry.
-
-## Skills
----------
-
-### Programming languages
-
-* **Python**:![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) (width=20)
-* **Bash**:![Bash Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) (width=20)
-
-### Databases
-
-* **PostgreSQL**:![PostgreSQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) (width=20)
-
-### Data Visualization
-
-* **Excel**:![Excel Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg) (width=20)
-* **Power BI**:![Power BI Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg) (width=20)
-* **Tableau**:![Tableau Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg) (width=20)
-
-### Text Editor
-
-* **Nano**:![Nano Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg) (width=20)
-
-### Version Control
-
-* **Git**:![Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) (width=20)
+- [Projects](#projects)
+  - [Android App Market Analysis](#android-app-market-analysis)
+  - [Credit Card Fraud Detection](#credit-card-fraud-detection)
+  - [Customer Segmentation Analysis](#customer-segmentation-analysis)
+  - [Advertising Agency Report Analysis](#advertising-agency-report-analysis)
+  - [Sales Insights Analysis](#sales-insights-analysis)
+  - [Retail Store Sales Analysis](#retail-store-sales-analysis)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Contact](#contact)
 
 ## Projects
-------------
 
-This section will be updated soon with my projects and contributions to the open-source community.
+### Android App Market Analysis
+Analyzed trends and patterns in the Android app market to provide insights for developers and marketers. This project involved data collection, cleaning, and visualization to identify key market trends.
 
-## Connect with Me
--------------------
+### Credit Card Fraud Detection
+Developed models to detect fraudulent credit card transactions and improve financial security. Utilized machine learning algorithms to classify transactions and identify anomalies.
 
-* **LinkedIn**: [https://www.linkedin.com/in/hrishin-debnath-463167218/](https://www.linkedin.com/in/hrishin-debnath-463167218/)
+### Customer Segmentation Analysis
+Used clustering techniques to segment customers for targeted marketing strategies. This project involved exploring customer data, applying clustering algorithms, and interpreting the segments to provide actionable insights.
 
-## Internship Experience
--------------------------
+### Advertising Agency Report Analysis
+Conducted an analysis of advertising reports to measure the effectiveness of different campaigns. Used statistical methods to evaluate campaign performance and recommend optimizations.
 
-* **Data Analyst Intern**, Oasis Infobyte (Current)
+### Sales Insights Analysis
+Performed a comprehensive analysis of sales data to uncover insights and trends. This project involved data preprocessing, exploratory data analysis, and visualization to support business decisions.
 
-## Education
-------------
+### Retail Store Sales Analysis
+Analyzed sales data from a retail store to identify patterns and factors affecting sales performance. Created visualizations to communicate findings and suggest improvements.
 
-* **Class 9 student**, [Name of School], Bangladesh
+## Skills Used
+- Python
+- Excel
+- Git
+
+## Tools Used
+- Jupyter Notebook
+- VS Code
+- GitHub
+
+## Contact
+For any questions or collaborations, feel free to reach out via [GitHub](https://github.com/hrishinthecoder).
+
+---
+
+Feel free to customize it further based on your specific needs!
